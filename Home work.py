@@ -87,7 +87,7 @@ while x>=1:
     x=x//10
 print("sum of the digits of" ,x1, "is",s1)    
      
-# your task is to take a number and print its sum using define sum:
+#10) your task is to take a number and print its sum using define sum:
 
 t=12216848
 def getSum(t):
